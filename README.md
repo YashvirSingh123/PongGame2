@@ -6,6 +6,7 @@
 
 # Description
 This project demonstrates the creation of a Pong game using Java's GUI libraries. The game is a modern take on the classic Pong game from the 1970s, featuring a unique twist in terms of style and design. The purpose of this project is to practice Java programming skills and showcase proficiency in working with Java GUI components to build an interactive game.
+![PongGameGIF](https://github.com/YashvirSingh123/PongGame2/assets/138590587/7b6a8272-f1ea-480d-86be-c9eea43736dc)
 
 ## Features
 
