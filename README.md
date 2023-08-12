@@ -4,8 +4,7 @@
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/YashvirSingh123/PongGame2)
 ![GitHub language count](https://img.shields.io/github/languages/count/YashvirSingh123/PongGame2)
 
-
-![GitHub language count](https://img.shields.io/github/languages/count/YashvirSingh123/PongGame2)
+![PongGameGIF3](https://github.com/YashvirSingh123/PongGame2/assets/138590587/c49155ba-9f2b-45ee-a9a1-c105a59223b0)
 
 # Description
 This project demonstrates the creation of a Pong game using Java's GUI libraries. The game is a modern take on the classic Pong game from the 1970s, featuring a unique twist in terms of style and design. The purpose of this project is to practice Java programming skills and showcase proficiency in working with Java GUI components to build an interactive game.
