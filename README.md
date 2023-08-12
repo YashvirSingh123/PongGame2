@@ -31,7 +31,7 @@ This project demonstrates the creation of a Pong game using Java's GUI libraries
 - Event Handling and Listeners
 - Collision Detection Algorithms
 
-  ## Why This Project?
+## Why This Project?
 
 This project is designed to showcase my proficiency in Java programming, particularly in building interactive graphical user interfaces using Java's Swing and AWT libraries as well as demonstrate my understanding of object-oriented principles and event handling.
 
